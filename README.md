@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @rareseduard
+# 👋 Hi, I’m Rareș Eduard
 
 ## 👀 About Me
 Passionate about IT, I'm on a continuous learning journey, always striving for improvement.
